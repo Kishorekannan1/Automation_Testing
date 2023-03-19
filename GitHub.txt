@@ -2,3 +2,4 @@ Add
 Delete
 Upload
 Download
+Copy
