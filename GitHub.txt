@@ -3,3 +3,5 @@ Delete
 Upload
 Download
 Copy
+Bulk Delete
+Delete All
